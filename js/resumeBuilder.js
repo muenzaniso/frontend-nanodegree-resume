@@ -1,3 +1,4 @@
-/*
-This is empty on purpose! Your code to build the resume will go here.
- */
+
+$("#main").append(["James Z Phiri"]);
+
+var awesomeThoughts= 'i am James Z Phiri and i am AWESOME!' 
